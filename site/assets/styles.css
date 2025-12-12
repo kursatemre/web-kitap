@@ -1,0 +1,7 @@
+body{font-family:Segoe UI,Helvetica,Arial,sans-serif;margin:0;padding:0}
+header{background:#0b64a0;color:#fff;padding:12px 18px}
+header a{color:#fff;text-decoration:none;margin-right:12px}
+main{padding:18px;max-width:900px;margin:auto}
+input[type=text]{width:100%;padding:10px;font-size:16px;margin-bottom:12px}
+.result{padding:10px;border-bottom:1px solid #eee}
+.result a{font-weight:600;color:#0b64a0}
